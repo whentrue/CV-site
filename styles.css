@@ -1,1 +1,24 @@
-.heading {text-align: center;}
+.heading {text-align: center;} 
+
+.pic {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;} 
+
+.personal {text-align: center;
+    background-color: #79a6d2;} 
+
+.contact {text-align: center} 
+
+.goal {text-align: center;
+    background-color: #79a6d2;} 
+
+.education {text-align: center} 
+
+.exp {text-align: center;
+    background-color: #79a6d2;} 
+
+.skills {text-align: center;} 
+
+.traits {text-align: center;
+    background-color: #79a6d2;}
