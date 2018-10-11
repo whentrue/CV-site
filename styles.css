@@ -1,9 +1,20 @@
-.heading {text-align: center;} 
 
-.pic {display: block;
+
+body {
+    background-color: powderblue;
+}
+
+.heading {text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif} 
+
+.pic {
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;} 
+    border-radius: 50%;
+    height: 250px;
+    
+} 
 
 .personal {text-align: center;
     background-color: #79a6d2;} 
